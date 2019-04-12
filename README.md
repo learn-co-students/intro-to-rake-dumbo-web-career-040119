@@ -15,7 +15,7 @@ the terminal.
 Rake allows us to define something called "Rake tasks" that execute these jobs.
 Once we define a task, that task can be executed from the command line.
 
-## Why Rake?
+## Why Rake?                                                     
 
 Every program has some jobs that must be executed now and then. For example, the
 task of creating a database table, the task of making or maintaining certain
